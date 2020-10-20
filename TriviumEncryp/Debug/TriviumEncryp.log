@@ -1,0 +1,5 @@
+﻿  Encrypt.c
+c:\users\coron\source\repos\triviumencryp\triviumencryp\encrypt.c(196): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+c:\users\coron\source\repos\triviumencryp\triviumencryp\encrypt.c(257): warning C4013: 'memset' sin definir; se supone que extern devuelve como resultado int
+c:\users\coron\source\repos\triviumencryp\triviumencryp\encrypt.c(176): warning C4101: 'result_init': variable local sin referencia
+  TriviumEncryp.vcxproj -> C:\Users\coron\source\repos\TriviumEncryp\Debug\TriviumEncryp.exe
